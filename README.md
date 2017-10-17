@@ -8,4 +8,6 @@ cmake --build build -- -j3
 ```
 
 ## Run
+```bash
 ./bin/vonbraun
+```
