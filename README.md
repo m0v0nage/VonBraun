@@ -1,6 +1,9 @@
 # VonBraun
 chess engine / graphics engine / jet engine - all in one
 
+## Lint
+cppcheck ./ --force
+
 ## Build
 ```bash
 cmake -H. -Bbuild
